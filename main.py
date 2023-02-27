@@ -1,6 +1,7 @@
 结果 = 0
 跨度 = 3
 
+
 def on_forever():
     global 结果
     for index in range(5):
